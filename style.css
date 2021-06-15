@@ -1,0 +1,37 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+}
+
+h1, .title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5rem;
+}
+
+h2, h3, h4, h5, h6, a, .subtitle, .section-heading {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+.bg {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(forbes.jpg);
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media screen and (min-width: 800px) {
+    .navpad {
+        padding: 2% 5% 2% 5%;
+    }
+}
+
+.page-body {
+    padding: 5%;
+}
+
+.sh2{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
