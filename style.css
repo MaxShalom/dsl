@@ -9,9 +9,13 @@ h1, .title, .special {
     font-style: italic;
 }
 
-h2, h3, h4, h5, h6, a, .subtitle, .section-heading {
+h2, h3, h4, h5, h6, a, .subtitle, .section-heading, .c6 {
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
+}
+
+.pb5 {
+    padding-bottom: 5%;
 }
 
 .bg {
@@ -31,6 +35,7 @@ h2, h3, h4, h5, h6, a, .subtitle, .section-heading {
         padding: 2% 5%;
     }
 }
+
 
 .page-body {
     padding: 5%;
