@@ -27,6 +27,11 @@ h2, h3, h4, h5, h6, a, .subtitle, .section-heading, .c6 {
     color: white;
 }
 
+.stats-embed {
+    width: 100%;
+    height: 300px;
+}
+
 .white {color: white;}
 .black {color: black;}
 
