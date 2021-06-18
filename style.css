@@ -34,7 +34,12 @@ h2, h3, h4, h5, h6, a, .subtitle, .section-heading, .c6 {
 
 .stats-embed {
     width: 100%;
-    height: 300px;
+    height: 200px;
+}
+
+.stats-embed2 {
+    width: 100%;
+    height: 700px;
 }
 
 .white {color: white;}
