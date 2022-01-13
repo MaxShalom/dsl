@@ -26,6 +26,10 @@ h2, h3, h4, h5, h6, a, .subtitle, .section-heading, .c6 {
     color: white;
 }
 
+.u {
+    text-decoration: underline;
+}
+
 @media screen and (min-width: 800px) {
     .bg {
         background-attachment: fixed;
@@ -175,4 +179,10 @@ a.bg-blue {
         padding-left: 8rem;
         padding-right: 8rem;
     }
+
+    .card {
+        height: 300px;
+    }
+    
 }
+
