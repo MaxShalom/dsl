@@ -59,6 +59,14 @@ h2, h3, h4, h5, h6, a, .subtitle, .section-heading, .c6 {
     }
 }
 
+.w100 {
+    width: 100%;
+}
+
+.white {
+    color: white;
+    font-weight: bold;
+}
 
 .page-body {
     padding: 5%;
@@ -81,7 +89,6 @@ h2, h3, h4, h5, h6, a, .subtitle, .section-heading, .c6 {
 .bg-blue {
     background: rgb(54,103,127);
     background: linear-gradient(128deg, rgba(54,103,127,1) 0%, rgba(53,0,0,1) 100%);
-    backgrund-color: #35667c;
     padding: 5%;
 }
 
