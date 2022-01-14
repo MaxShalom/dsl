@@ -193,5 +193,10 @@ a.bg-blue {
         height: 300px;
     }
     
+    .bg-blue-b {
+        background: rgb(54,103,127);
+        background: linear-gradient(128deg, rgba(54,103,127,1) 0%, rgba(53,0,0,1) 100%);
+        padding: 5%;
+    }
 }
 
