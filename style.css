@@ -36,6 +36,11 @@ h2, h3, h4, h5, h6, a, .subtitle, .section-heading, .c6 {
     }
 }
 
+.pics img {
+    height: 100%;
+    width: 100%;
+}
+
 .teams {
     padding-left: 50px;
 }
