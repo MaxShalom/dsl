@@ -193,10 +193,6 @@ a.bg-blue {
         padding-left: 8rem;
         padding-right: 8rem;
     }
-
-    .card {
-        height: 300px;
-    }
     
     .bg-blue-b {
         background: rgb(54,103,127);
