@@ -26,6 +26,15 @@ h2, h3, h4, h5, h6, a, .subtitle, .section-heading, .c6 {
     color: white;
 }
 
+.modal-btn {
+    margin-top: -4px;
+    border-radius:5px;
+    border: none; 
+    padding: 8px; 
+    font-weight: bold; 
+    color: white;
+}
+
 .u {
     text-decoration: underline;
 }
