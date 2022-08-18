@@ -195,6 +195,10 @@ a.bg-blue {
         padding-left: 4rem;
         padding-right: 4rem;
     }
+
+    .modal-btn {
+        
+    }
 }
 
 @media screen and (min-width: 60em) {
